@@ -15,3 +15,9 @@ This project is not pip installable
 Python 3.5 or 2.7  
 requests  
 xmltodict  
+
+For Mac OS X 10.8 and above:
+  Pync
+ 
+For Linux/Gnome:
+  Libnotify
